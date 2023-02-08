@@ -1,4 +1,4 @@
-# Photoshot
+# Photoshot.
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/photoshot_ai.svg?style=social&label=Follow%20%40photoshot_ai)](https://twitter.com/photoshot_ai)
 
