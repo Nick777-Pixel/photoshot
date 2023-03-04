@@ -54,10 +54,10 @@ export default function Footer() {
           <Text fontSize="sm">
             <Link href="/faq">FAQ</Link>
           </Text>
-          <SocialButton href="https://github.com/shinework/photoshot">
+          <SocialButton href="https://github.com/">
             <FaGithub />
           </SocialButton>
-          <SocialButton href="https://twitter.com/photoshot_ai">
+          <SocialButton href="https://twitter.com/">
             <FaTwitter />
           </SocialButton>
           <SocialButton href="mailto:support@photoshot.app">
