@@ -68,7 +68,7 @@ export default function Footer() {
             fontSize="lg"
             fontWeight="bold"
           >
-            Photoshot.
+            Photoshot AI.
           </Text>
         </Stack>
       </Container>
