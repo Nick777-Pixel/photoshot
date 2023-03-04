@@ -60,7 +60,7 @@ export default function Footer() {
           <SocialButton href="https://twitter.com/">
             <FaTwitter />
           </SocialButton>
-          <SocialButton href="mailto:support@photoshot.app">
+          <SocialButton href="mailto:support@mailgarner.com">
             <MdAlternateEmail />
           </SocialButton>
           <Text
